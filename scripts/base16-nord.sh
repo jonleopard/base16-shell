@@ -4,12 +4,12 @@
 # Nord scheme by arcticicestudio
 
 color00="2e/34/40" # Base 00 - Black
-color01="88/c0/d0" # Base 08 - Red
-color02="bf/61/6a" # Base 0B - Green
-color03="5e/81/ac" # Base 0A - Yellow
-color04="eb/cb/8b" # Base 0D - Blue
-color05="a3/be/8c" # Base 0E - Magenta
-color06="d0/87/70" # Base 0C - Cyan
+color01="bf/61/6a" # Base 08 - Red
+color02="a3/be/8c" # Base 0B - Green
+color03="eb/cb/8b" # Base 0A - Yellow
+color04="81/a1/c1" # Base 0D - Blue
+color05="b4/8e/ad" # Base 0E - Magenta
+color06="88/c0/d0" # Base 0C - Cyan
 color07="e5/e9/f0" # Base 05 - White
 color08="4c/56/6a" # Base 03 - Bright Black
 color09=$color01 # Base 08 - Bright Red
@@ -19,8 +19,8 @@ color12=$color04 # Base 0D - Bright Blue
 color13=$color05 # Base 0E - Bright Magenta
 color14=$color06 # Base 0C - Bright Cyan
 color15="8f/bc/bb" # Base 07 - Bright White
-color16="81/a1/c1" # Base 09
-color17="b4/8e/ad" # Base 0F
+color16="d0/87/70" # Base 09
+color17="5e/81/ac" # Base 0F
 color18="3b/42/52" # Base 01
 color19="43/4c/5e" # Base 02
 color20="d8/de/e9" # Base 04
