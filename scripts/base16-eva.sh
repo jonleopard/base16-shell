@@ -124,4 +124,3 @@ unset color20
 unset color21
 unset color_foreground
 unset color_background
-||||||| ce8e1e5
